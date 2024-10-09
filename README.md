@@ -1,8 +1,26 @@
-# React + Vite
+# Overview
+Fast Finger is a Typing Master game created using React.js to help users improve their typing speed and accuracy. It features real-time typing performance metrics, including Words Per Minute (WPM), Characters Per Minute (CPM), and Mistakes counter. The game provides a countdown timer, live feedback, and visual analytics using interactive line charts powered by Chart.js.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+## Real-Time Typing Metrics:
+=> Characters Per Minute (CPM): Measures the number of characters typed in a minute.
+=> Words Per Minute (WPM): Measures the number of words typed in a minute.
+=> Mistakes Count: Tracks the number of typing mistakes made during the game.
+=> Countdown Timer: Counts down the time left for the user to complete the typing test.
+=> Performance Analysis: Displays a detailed analysis of the user's performance using interactive line charts.
+=> Play Again Option: Allows users to reset and try again for better scores.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Technologies Used
+=> React.js: Core framework for building the front-end of the application.
+=> React Router: For navigation between pages and managing routes.
+=> Material-UI (MUI): For styling components and ensuring a responsive design.
+=> Chart.js: For displaying performance metrics using line charts.
+=> Spline: For integrating 3D elements to enhance visual appeal.
+
+# Screen Shots:
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
